@@ -74,4 +74,4 @@ Usado quando o usuário não sabe onde o dispositivo está (ex: esquecido em tá
 ## 6. Revisão do Plano
 
 Este documento é revisado a cada 12 meses ou após todo incidente crítico de hardware.
-*Última revisão: DD/MM/AAAA*
+   *Última revisão: 16/02/2025*
