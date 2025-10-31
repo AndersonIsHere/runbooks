@@ -53,4 +53,4 @@ O objetivo é parar a "sangria" imediatamente. Escolha a opção mais rápida e 
 ## 4. Atualização do Plano
 
 Este documento é revisado a cada 6 meses ou após todo incidente crítico.
-*Última revisão: DD/MM/AAAA*
+*Última revisão: 04/07/2025*
