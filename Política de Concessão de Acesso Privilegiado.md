@@ -1,10 +1,3 @@
-Aqui está uma recriação da política em formato Markdown, otimizada para ser hospedada em um repositório GitHub e com o nível de detalhe e controle esperado por uma equipe de auditoria do CISO.
-
-Este formato enfatiza a rastreabilidade, os controles técnicos e a governança.
-
------
-
-```markdown
 # Política de Concessão de Acesso Privilegiado
 
 | **Documento:** | Política de Concessão de Acesso Privilegiado |
