@@ -5,10 +5,10 @@
 | **ID do Documento:** | `POL-SEG-002` |
 | **Proprietário:** | Departamento de Segurança da Informação |
 | **Aprovador:** | CISO (Chief Information Security Officer) |
-| **Versão:** | `1.0` |
+| **Versão:** | `2.0` |
 | **Status:** | Aprovado |
-| **Data de Vigência:** | `AAAA-MM-DD` |
-| **Próxima Revisão:** | `AAAA-MM-DD` |
+| **Data de Vigência:** | `2025-07-04` |
+| **Próxima Revisão:** | `2026-01-04` |
 
 ---
 
@@ -118,9 +118,3 @@ O não-cumprimento desta política é considerado uma falha de segurança grave 
 * Política de Gestão de Senhas
 * Política de SIEM e Gerenciamento de Logs
 * Procedimento de Resposta a Incidentes
-
-## 10. Plano de Atualização
-
-Este documento é revisado a cada 6 meses ou após todo incidente crítico. Última revisão: 04/07/2025
-
-```
