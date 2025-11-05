@@ -1,6 +1,4 @@
-# Define o acesso de admin ao banco de dados de produção
-# Este arquivo é protegido pelo CODEOWNERS
 group: db-admins
 members:
-  - "admin-matheus.silva"
-  # O solicitante quer adicionar seu nome aqui
+  - "admin-antonio.silva"
++ - "admin-matheus-silva" # Acesso JIT necessário para o Projeto-X (Ticket JIRA-123)
