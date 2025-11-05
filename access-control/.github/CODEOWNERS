@@ -2,4 +2,4 @@
 
 # Para alterar qualquer acesso a banco de dados,
 # é necessária a aprovação do Gestor (policy 5.2) E do Dono do Sistema (policy 5.2)
-access-control/db-production.yml @GestorDaEquipe @DonoDoSistemaDB
+access-control/db-production.yml @zukk/gestores-ti @zukk/system-owners-db
